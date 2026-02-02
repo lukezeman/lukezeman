@@ -14,12 +14,12 @@
 
 ### 🚀 **About Me**
 
-[cite_start]I am a Computer Science student (Honors) at the **University of Arizona**, minoring in **Cyber Operations**[cite: 9, 49]. [cite_start]Currently, I work as a **Data & Analytics Intern for Arizona Baseball**, developing internal analytics platforms and interactive dashboards[cite: 28, 63]. [cite_start]I also serve as a **Teaching Assistant**, helping students master Python and core programming concepts[cite: 24, 71].
+I am a Computer Science student (Honors) at the **University of Arizona**, minoring in **Cyber Operations**. Currently, I work as a **Data & Analytics Intern for Arizona Baseball**, developing internal analytics platforms and interactive dashboards. I also serve as a **Teaching Assistant**, helping students master Python and core programming concepts.
 
-- [cite_start]🔭 I’m currently building **analytics-driven applications** and **cloud-native solutions**[cite: 4, 6].
-- [cite_start]⚾ I develop **interactive heatmaps** using Python and Plotly to evaluate player performance[cite: 15, 66].
-- [cite_start]🎓 **Focus:** Cloud Computing, Systems Software, and Data Visualization[cite: 38, 52].
-- 🏆 **Education:** 3.84/4.0 GPA | [cite_start]Dean's List (FA22 - FA25)[cite: 10, 50].
+- 🔭 I’m currently building **analytics-driven applications** and **cloud-native solutions**.
+- ⚾ I develop **interactive heatmaps** using Python and Plotly to evaluate player performance.
+- 🎓 **Focus:** Cloud Computing, Systems Software, and Data Visualization.
+- 🏆 **Education:** 3.84/4.0 GPA | Dean's List (FA22 - FA25).
 
 ---
 
@@ -57,9 +57,9 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **⚾ Pitcher Heatmaps** | [cite_start]Full-stack web app visualizing pitcher performance with density maps and dynamic user controls. [cite: 12, 15] | `Python` `Shiny` `Plotly` |
-| **🌐 Port-Forwarding Tool** | [cite_start]Python-based TCP utility using raw sockets and multi-threading to manage concurrent network traffic. [cite: 17, 18] | `Python` `Linux` `TCP/IP` |
-| **💻 CPU Simulator** | [cite_start]Single-cycle CPU simulator decoding 32-bit instructions, ALU operations, and memory access. [cite: 20, 21] | `Java` `Assembly` |
+| **⚾ Pitcher Heatmaps** | Full-stack web app visualizing pitcher performance with density maps and dynamic user controls. | `Python` `Shiny` `Plotly` |
+| **🌐 Port-Forwarding Tool** | Python-based TCP utility using raw sockets and multi-threading to manage concurrent network traffic. | `Python` `Linux` `TCP/IP` |
+| **💻 CPU Simulator** | Single-cycle CPU simulator decoding 32-bit instructions, ALU operations, and memory access. | `Java` `Assembly` |
 
 ---
 
