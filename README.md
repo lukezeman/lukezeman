@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Luke Zeman 👋</h1>
-<h3 align="center">CS Student @ U of Arizona | Data & Analytics Intern | Teaching Assistant</h3>
+<h3 align="center">CS Student @ U of Arizona | DevOps Engineer Intern | Data & Analytics Intern | Teaching Assistant</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/luke-zeman">
