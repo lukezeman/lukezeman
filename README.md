@@ -95,8 +95,8 @@ I'm a **Computer Science graduate** of the **University of Arizona**, with a min
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukezeman&show_icons=true&theme=radical&hide_border=true" alt="Luke's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukezeman&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://luke-stats.vercel.app/api?username=lukezeman&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=true" alt="Luke's Stats" />
+  <img src="https://luke-stats.vercel.app/api/top-langs/?username=lukezeman&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
