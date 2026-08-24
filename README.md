@@ -107,7 +107,7 @@ Contributor to **[Project Sunrise](https://github.com/stanuwu/Sunrise)**, an ope
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://luke-stats.vercel.app/api?username=lukezeman&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=true" alt="Luke's Stats" />
+  <img src="https://luke-stats.vercel.app/api?username=lukezeman&include_all_commits=true&show_icons=true&theme=radical&hide_border=true" alt="Luke's Stats" />
   <img src="https://luke-stats.vercel.app/api/top-langs/?username=lukezeman&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
