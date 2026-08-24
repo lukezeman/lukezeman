@@ -92,6 +92,18 @@ I'm a **Computer Science graduate** of the **University of Arizona**, with a min
 
 ---
 
+### 🌌 **Open Source**
+
+<p>
+  <a href="https://github.com/stanuwu/Sunrise"><img src="https://img.shields.io/badge/Project-Sunrise-FF6B35?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/stanuwu/Sunrise/stargazers"><img src="https://img.shields.io/github/stars/stanuwu/Sunrise?style=flat&color=FFC107" /></a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+</p>
+
+Contributor to **[Project Sunrise](https://github.com/stanuwu/Sunrise)**, an open-source C++ Destiny 2 offline exploration mod. Merged work includes a fix to the build-data cache reader, where a cache written by a *newer* format version was classified as invalid rather than stale and failed the entire client boot, plus build-configuration cleanup.
+
+---
+
 ### 📊 **GitHub Stats**
 
 <p align="center">
